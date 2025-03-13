@@ -10,7 +10,7 @@ I'm a **Computer Science student** at the University of Northern British Columbi
 - **Databases:** SQL, SSMS
 - **DevOps & Cloud:** AWS, Docker, Git
 - **Frontend:** HTML, CSS, JavaScript
-- -**Cybersecurity, DevOps & Cloud Computing.**
+- **Cybersecurity, DevOps & Cloud Computing.**
   
 ## Recent and Top Projects
 ### API Forensic Security Audit
