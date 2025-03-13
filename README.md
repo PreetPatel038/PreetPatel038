@@ -5,29 +5,29 @@ I'm a **Computer Science student** at the University of Northern British Columbi
 
 ## Skills & Technologies
 - **Programming:** Python, C++, Java, C#
-- **Backend Development:** .NET, Flask, RESTful APIs, OAuth2, JWT
-- **Cybersecurity:** API Security, OWASP Top 10, Penetration Testing
+- **Backend Development:** .NET, JWT
 - **Data Science & Mining:** Machine Learning, Data Preprocessing, Clustering
-- **Databases:** SQL, MySQL, SSMS, MongoDB
-- **DevOps & Cloud:** AWS, Docker, CI/CD, Git
+- **Databases:** SQL, SSMS
+- **DevOps & Cloud:** AWS, Docker, Git
 - **Frontend:** HTML, CSS, JavaScript
-
-## 📌 Projects
-### 🔹 API Forensic Security Audit
+- -**Cybersecurity, DevOps & Cloud Computing.**
+  
+## Recent and Top Projects
+### API Forensic Security Audit
 - Conducted **security assessments** on open-source APIs using the **API Discovery platform**.
 - Identified vulnerabilities based on **OWASP API Security Top 10**.
 - Built a security audit report and mitigation strategies.
 
-### 🔹 Healthcare Data Mining: Patient Risk Stratification
+### Healthcare Data Mining: Patient Risk Stratification
 - Implemented **clustering techniques** to analyze patient data.
 - Predicted high-risk individuals for chronic diseases.
 - Used **Python, Scikit-Learn, and Pandas** for data processing.
 
-### 🔹 Quantum Communication & Networking
+### Quantum Communication & Networking
 - Researched **device-independent quantum key distribution**.
 - Explored the future potential of **Quantum Secure Communication**.
 
-## 📫 Connect with Me
+## Connect with Me
 - **LinkedIn:** [linkedin.com/in/preetkumar-patel](https://www.linkedin.com/in/preetkumar-patel)
 
 
